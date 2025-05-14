@@ -86,7 +86,8 @@ Versão adaptada para chá de panela, com mesma base tecnológica do convite de 
 ---
 
 ### 4️⃣ Sistema Acadêmico (projeto universitário)
-Sistema simples feito em PHP para cadastro e gerenciamento de dados acadêmicos.
+Sistema acadêmico simples desenvolvido durante a graduação,  
+com foco em estudo e prática de back-end utilizando PHP e Laravel. 
 
 **Tecnologias:**  
 - PHP com Laravel  
