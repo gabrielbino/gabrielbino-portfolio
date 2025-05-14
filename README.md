@@ -59,6 +59,16 @@ Sistema de confirmação de presença e lista de presentes para casamentos, com 
 - Firebase Firestore  
 - Firebase Authentication  
 
+![Screenshot da tela inicial](./assets/home1.jpeg)
+
+![Screenshot da tela de contagem regressiva](./assets/ceremony.jpeg)
+
+![Screenshot da tela de localização](./assets/location.jpeg)
+
+![Screenshot da tela de presentes](./assets/gift.jpeg)
+
+![Screenshot da tela de confirmação de presença](./assets/presence.jpeg)
+
 🚨 Projeto privado: disponível para demonstração sob solicitação.
 
 ---
