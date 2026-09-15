@@ -85,32 +85,8 @@ Versão adaptada para chá de panela, com mesma base tecnológica do convite de 
 
 ---
 
-### 4️⃣ Sistema Acadêmico (projeto universitário)
-Sistema acadêmico simples desenvolvido durante a graduação,  
-com foco em estudo e prática de back-end utilizando PHP e Laravel. 
-
-**Tecnologias:**  
-- PHP com Laravel  
-- MySQL  
-
-[🔗 Repositório](https://github.com/gabrielbino/projeto)
-
----
-
-### 5️⃣ Currículo Responsivo
-Site responsivo desenvolvido para estudo e prática de HTML, CSS e media queries.
-
-**Tecnologias:**  
-- HTML5  
-- CSS3  
-- Responsividade  
-
-[🔗 Repositório](https://github.com/gabrielbino/curriculoResponsivo)
-
----
-
 ## 📫 Contato
 
-- E-mail: gabriellf650@gmail.com
+- E-mail: contato.gabrielbino@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/gabrielfbino/](https://www.linkedin.com/in/gabrielfbino/)
 - Instagram: [https://www.instagram.com/gabrielfbino/](https://www.instagram.com/gabrielfbino/)
